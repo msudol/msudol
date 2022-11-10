@@ -1,4 +1,6 @@
-### Hi there 👋
+### Matt Sudol AKA tremor 👋
+
+I'll write something here at some point.
 
 <!--
 **msudol/msudol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
