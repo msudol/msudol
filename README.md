@@ -1,6 +1,6 @@
 ### Welcome to My Repo 👋
 
-- 🔭 I’m currently working on: Not much in development.
-- 🌱 I’m currently learning: Brushing up on OpSec.
-- ⚡ Fun fact: Virtual Reality is fun but Actual Reality is better.
+- 🔭 I’m currently working on: [NERIS](https://fsri.org/programs/neris)
+- 🌱 I’m currently learning: Securing AWS environments, Terraform, and Next.js
+- ⚡ Fun fact: Virtual Reality is fun, but Actual Reality is better.
 
